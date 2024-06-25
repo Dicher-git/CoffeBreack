@@ -1,0 +1,15 @@
+.comment__share .toggle .text{
+    display: none;
+}
+.comment-footer__menu>li.comment__share{
+    display: none;
+}
+.text{
+    display: none;
+}
+.services .login-buttons{
+    display: none;
+}
+.dropdown-menu .pull-right{
+    display: none;
+}
